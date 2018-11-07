@@ -1,3 +1,3 @@
-print ("Hello, Anna")
+print ("Hello, lesson1")
 input()
 
