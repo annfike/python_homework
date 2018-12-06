@@ -87,7 +87,7 @@ print(max)
 a = int(input("Введите число a "))
 b = int(input("Введите число b "))
 a = a + b 
-b = a - b -------------
+b = a - b 
 a = a - b
 print("Число a = ", a)
 print("Число b = ", b)
