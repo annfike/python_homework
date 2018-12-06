@@ -172,7 +172,7 @@ with open(path_fact, 'r', encoding='UTF-8') as fact:
         for j in b[:]:
             if j == "":
                 b.remove(j)
-        workers1.append(b)
+        workers_fact.append(b)
 
 workers.sort()
 workers_fact.sort()
